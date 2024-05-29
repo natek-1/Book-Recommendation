@@ -1,0 +1,4 @@
+type,name
+complete,goodreads_interactions.csv
+complete,goodreads_books.json.gz
+complete,book_id_map.csv
